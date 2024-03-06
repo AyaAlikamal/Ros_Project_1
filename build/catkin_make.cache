@@ -1,0 +1,2 @@
+client_server
+-DCATKIN_DEVEL_PREFIX=/home/ayaali/Test/devel -DCMAKE_INSTALL_PREFIX=/home/ayaali/Test/install -G Unix Makefiles

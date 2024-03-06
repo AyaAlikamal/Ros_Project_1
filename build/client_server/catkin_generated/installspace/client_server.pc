@@ -1,0 +1,8 @@
+prefix=/home/ayaali/Test/install
+
+Name: client_server
+Description: Description of client_server
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

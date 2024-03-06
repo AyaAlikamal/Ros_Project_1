@@ -1,0 +1,8 @@
+int32 temp
+int32 hum
+int32 pre
+---
+string check_data
+string temp_range
+string hum_range
+string pre_range
